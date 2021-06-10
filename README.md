@@ -6,9 +6,9 @@
   width: 50%;">
 
 
-Type : Group Project
-Group : Daniel Mendoza, Régis Schulze, Vincent Rolin
-Duration : 2 weeks
+- Type : Group Project
+- Group : Daniel Mendoza, Régis Schulze, Vincent Rolin
+- Duration : 2 weeks
 
 # Project Description
 
