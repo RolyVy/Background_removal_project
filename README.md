@@ -1,3 +1,10 @@
+
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/185668043/original/8de09be1d5623082611e6733021943e7908c8891/do-photoshop-background-removal.png" alt="Italian Trulli" width="1000" height="550" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
+
 Type : Group Project
 Group : Daniel Mendoza, Régis Schulze, Vincent Rolin
 Duration : 2 weeks
