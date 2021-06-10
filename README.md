@@ -23,7 +23,9 @@ trimap_creation.ipynb is a jupiter notebook used to create trimaps given an imag
 
 # ModNet
 
-Explenation of the repo can be found on https://github.com/ZHKKKe/MODNet
+- Explenation of the repo can be found on https://github.com/ZHKKKe/MODNet
+- We made image matting predictions using the pretrained MODNet model(https://drive.google.com/drive/folders/1umYmlCulvIFNaqPjwod1SayFmSRHziyR) following Google - - Collab notebook : https://colab.research.google.com/drive/1GANpbKT06aEFiW-Ssx0DQnnEADcXwQG6?usp=sharing#scrollTo=JOmYOHKfgQ5Y
+for_metrics.ipynb is a jupiter notebook used to compare the predictions from the Google Collab and the ground truth(MASK in DUTS folder).
 
 # Deep Image Matting
 
