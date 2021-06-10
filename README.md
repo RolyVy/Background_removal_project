@@ -10,7 +10,7 @@ Type : Group Project
 Group : Daniel Mendoza, Régis Schulze, Vincent Rolin
 Duration : 2 weeks
 
-# Background_removal_project 
+# Project Description
 
 In this group project we explored current possibilites to remove the background of images using deep learning models, also called image matting.
 
